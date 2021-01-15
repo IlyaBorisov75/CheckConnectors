@@ -1,10 +1,10 @@
-package com.example.goldman_sachs;
+package com.example.checkConnectors;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GoldmanSachsApplicationTests {
+class ApplicationTests {
 
     @Test
     void contextLoads() {

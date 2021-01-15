@@ -1,4 +1,4 @@
-package com.example.goldman_sachs.tasks.models;
+package com.example.checkConnectors.tasks.models;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

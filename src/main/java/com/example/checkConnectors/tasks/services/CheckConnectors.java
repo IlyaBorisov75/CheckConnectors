@@ -1,7 +1,7 @@
-package com.example.goldman_sachs.tasks.services;
+package com.example.checkConnectors.tasks.services;
 
 
-import com.example.goldman_sachs.tasks.models.Pair;
+import com.example.checkConnectors.tasks.models.Pair;
 
 import java.util.*;
 

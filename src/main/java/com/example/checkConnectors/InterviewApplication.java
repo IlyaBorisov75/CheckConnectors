@@ -1,7 +1,7 @@
-package com.example.goldman_sachs;
+package com.example.checkConnectors;
 
-import com.example.goldman_sachs.tasks.models.Pair;
-import com.example.goldman_sachs.tasks.services.CheckConnectors;
+import com.example.checkConnectors.tasks.models.Pair;
+import com.example.checkConnectors.tasks.services.CheckConnectors;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import java.util.LinkedList;
